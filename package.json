@@ -1,0 +1,28 @@
+{
+  "name": "rsainfraproject-t1",
+  "version": "1.0.0",
+  "description": "comparison tally and g-sheet data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakesh0314/RSAINFRAPROJECT-T1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakesh0314/RSAINFRAPROJECT-T1/issues"
+  },
+  "homepage": "https://github.com/rakesh0314/RSAINFRAPROJECT-T1#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "exceljs": "^4.4.0",
+    "google-auth-library": "^9.15.1",
+    "google-spreadsheet": "^4.1.4",
+    "googleapis": "^149.0.0",
+    "mysql2": "^3.14.1"
+  }
+}
